@@ -41,8 +41,11 @@ li {
   align-items: center;
 }
 
+.hero div:first-of-type {
+  margin-top: 1.2rem;
+}
 .hero div {
-  margin-top: 6rem;
+  margin-top: 2.4rem;
   width: 100%;
   display: flex;
   flex-direction: column;
@@ -89,6 +92,7 @@ li {
 .clients li img {
   width: 100%;
 }
+
 .hero h1 br {
   display: none;
 }
